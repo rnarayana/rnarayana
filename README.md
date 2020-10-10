@@ -1,8 +1,6 @@
 ### Hi there!
 
-I'm Narayana, a software engineer from India.
-
-Currently, I'm looking to spend more time on open source and learning, and this is the start of that attempt
+I'm looking to spend more time on open source and learning, and this is the start of that attempt.
 
 - Interests: 
   - Music (Classical, Carnatic, New Age)
