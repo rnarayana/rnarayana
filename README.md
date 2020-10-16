@@ -4,7 +4,7 @@ I'm looking to spend more time on open source and learning, and this is the star
 
 - Interests: 
   - Music (Classical, Carnatic, New Age)
-  - Reading (Fantasy, Sci-Fi, Historical Fiction, ... Here's me on GoodReads! <https://www.goodreads.com/user/show/3333436-narayana>
+  - Reading (Fantasy, Sci-Fi, Historical Fiction,... 
   - Physics, something that started recently.
   - Yoga, again something that started recently.
   
