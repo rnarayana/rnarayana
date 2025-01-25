@@ -1,14 +1,6 @@
-### Hi there!
+'Leave 'em better than you found 'em, whether it be your job or project or people or the world itself'
 
-I'm looking to spend more time on open source and learning, and this is the start of that attempt.
-
-- Interests: 
-  - Music (Classical, Carnatic, New Age)
-  - Reading (Fantasy, Sci-Fi, Historical Fiction,... 
-  - Physics, something that started recently.
-  - Yoga, again something that started recently.
-  
-- Guiding principle in life: 'Leave 'em better than you found 'em, whether it be your job or project or people or the world itself'
+Tech | Yoga | Music | Family
 
 <!--
 **rnarayana/rnarayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
